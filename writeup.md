@@ -464,4 +464,4 @@ case 2:
 
 The line `v1 = v7` is a decompiler artifact assigning the instruction number to itself . From here, analyzing the remainder of the VM instructions would follow the same struct-mapping process .
 
-"I got tired i'll compelete it soon"
+"I got tired i'll complete it soon"
